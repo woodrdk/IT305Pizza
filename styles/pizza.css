@@ -1,0 +1,35 @@
+/* comment */
+
+body{
+    background-color: red;
+}
+
+.btn-primary{
+    background-color: #c82333;
+    margin-bottom: 3em;
+}
+
+#main{
+    background-color: white;
+
+    padding: 6em;
+}
+/* fieldset styling  */
+fieldset{
+    border: 1px solid darkgreen;
+    padding: 1em;
+}
+
+/* style jumbotron */
+.jumbotron{
+    background-color: darkgreen;
+    color: white;
+}
+
+legend{
+    font-weight: bold;
+    color:darkgreen;
+    font-variant: all-small-caps;
+    font-size: 125%;
+    width: 25%;
+}
