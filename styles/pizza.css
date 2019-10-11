@@ -8,6 +8,10 @@ body{
     background-color: #c82333;
     margin-bottom: 3em;
 }
+.err{
+    color: red;
+    visibility: hidden;
+}
 
 #main{
     background-color: white;
@@ -32,4 +36,8 @@ legend{
     font-variant: all-small-caps;
     font-size: 125%;
     width: 25%;
+}
+
+#delAddress{
+    display: none;
 }
